@@ -254,7 +254,7 @@ class WPFH_IN_Engine {
 		if ( $success ) {
 			$plugin = WPFH_IndexNow::get_instance();
 			if ( $plugin->get_review_nudge() ) {
-				$plugin->get_review_nudge()->record_action();
+				$plugin->get_review_nudge()->record_success();
 			}
 		}
 

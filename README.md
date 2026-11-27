@@ -27,6 +27,14 @@ Instant search engine indexing via the IndexNow protocol with automatic API key 
 | Custom Post Types & Taxonomy Archive Auto-Indexing | — | ✅ |
 | Submission Status Analytics & CSV Log Export | — | ✅ |
 
+---
+
+## 📸 Admin Preview
+
+<p align="center">
+  <img src="assets/screenshot-1.png" alt="ForgeHub IndexNow WordPress Admin Settings" width="100%" />
+</p>
+
 ## Installation
 
 1. Upload `forgehub-indexnow` to `/wp-content/plugins/`.

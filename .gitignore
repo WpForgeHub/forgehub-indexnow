@@ -1,0 +1,8 @@
+tests/
+reports/
+*.py
+*.zip
+.env
+credentials*
+.DS_Store
+Thumbs.db
